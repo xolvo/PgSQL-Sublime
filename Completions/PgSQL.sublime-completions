@@ -1,5 +1,5 @@
 {
-    "scope": "source.sql",
+    "scope": "source.sql, source.pgsql",
     "completions":
     [
         "ALL",
